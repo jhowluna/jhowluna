@@ -29,7 +29,7 @@ I love working on the frontend because it allows me to combine my creativity wit
 
 
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=lauragrassig&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=jhowluna&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!---
 jhowluna/jhowluna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
