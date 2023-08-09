@@ -15,8 +15,7 @@ I am a curious and results-oriented professional, always looking to improve my s
 
 # 🚀 Expertise
 
-My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications. I have extensive knowledge of HTML, CSS, JavaScript and Typescript, and I'm proficient in popular frameworks and libraries such as React and VUE. </br> 
-I love working on the frontend because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
+
 
 # 💻 Tech Stack
 
