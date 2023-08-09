@@ -1,20 +1,17 @@
-- 👋 Hi, I’m Jhonatan Luna
-- 👀 I’m interested in Artificial Inteligencia, Machine learning and statistics
-- 🌱 I’m currently learning statistics aplied
-- 💞️ I’m looking to collaborate on cognitive systems
+- 👋 Greetings! I am a seasoned data scientist with a proven track record of six years in the field, specializing in artificial intelligence.
+- 👀 Strongly Interested in Artificial Intelligence, Machine learning and statistics
+- 🌱 Currently learning
+- 💞️ Looking to collaborate on cognitive systems
 - 📫 How to reach me - jhonatansilvaluna@gmail.com
 
 
 # 👋 Hi there
 
-I'm Jhonatan Luna, a professional specialized in Data Science, with a solid academic background and a postgraduate degree in statistics. I have expertise in Artificial Intelligence and Machine Learning, with a strong interest in applying these skills to solve complex problems and extract valuable insights from data.
-My professional journey has been focused on exploring the potential of data to drive decision-making.
-As an expert in Artificial Intelligence and Machine Learning, I have developed and implemented predictive models and machine learning algorithms in several applications. I have experience dealing with large and complex datasets, as well as expertise in advanced techniques such as neural networks, natural language processing, reinforcement learning, LLM, generative AI, among other technologies.
-I am a curious and results-oriented professional, always looking to improve my skills and keep up with the latest trends in the field of Data Science and Artificial Intelligence. I am passionate about finding innovative solutions to complex challenges and I am always looking to apply my knowledge and contribute to challenging projects.
-
+I'm Jhonatan Luna, a professional specialized in Data Science, with a solid academic background and a postgraduate degree in statistics, and AI enthusiast who believes in the transformative potential of this technology. I've seen firsthand how AI can revolutionize industries, from healthcare to finance. If you're ready to harness the power of data and AI to drive your business forward, let's connect.
 
 # 🚀 Expertise
 
+My career has been meticulously shaped around the power of artificial intelligence. With deep dives into neural networks, deep learning frameworks, and reinforcement learning, I've developed AI-driven solutions that push the boundaries of what's possible. From crafting intelligent chatbots that replicate human interaction to designing image recognition models that streamline operations, my focus has been on harnessing AI for tangible results.
 
 
 # 💻 Tech Stack
