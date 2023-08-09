@@ -33,6 +33,6 @@ My career has been meticulously shaped around the power of artificial intelligen
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=jhowluna&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhowluna&langs_count=8&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhowluna&langs_count=8&theme=neon&hide_border=false&count_private=true)
 
 ![Top Langs](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=jhowluna&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
