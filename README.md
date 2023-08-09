@@ -36,11 +36,4 @@ I love working on the frontend because it allows me to combine my creativity wit
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=jhowluna&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhowluna&theme=neon&hide_border=false"  width="400px" />
-
-
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=jhowluna&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!---
-jhowluna/jhowluna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
