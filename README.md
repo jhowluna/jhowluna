@@ -32,6 +32,7 @@ I love working on the frontend because it allows me to combine my creativity wit
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatanluna/)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)(https://medium.com/@jhonatansilvaluna)
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=jhowluna&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    
